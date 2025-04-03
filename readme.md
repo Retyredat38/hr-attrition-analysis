@@ -1,5 +1,7 @@
 # HR Attrition Analysis
 
+![Project Preview](preview.png)
+
 This project explores factors that contribute to employee attrition using Python and visual analytics.  
 It leverages IBM’s HR Analytics Employee Attrition dataset to uncover trends that could help Human Resources teams improve retention.
 
