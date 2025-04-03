@@ -53,12 +53,12 @@ Organizations could benefit from:
 
 ## Getting Started
 
-1. Clone this repo:
-git clone https://github.com/yourusername/hr-attrition-analysis.git
+1. Clone the repo:
 
-2. Install required libraries (if not already):
+2. Install dependencies: 
 
-3. Open the notebook in Jupyter and run all cells.
+3. Open `hr_attrition_analysis.ipynb` in Jupyter Notebook.
+
 
 ---
 
